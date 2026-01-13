@@ -16,6 +16,6 @@ This is a Windows-specific PHP extension to provide the main features. Add it to
 
 It's a short PHP abstraction layer to help you use the Win32Service extension. This library contains the IDE pseudo code to enable auto-complete.
 
-##Win32ServiceBundle
+## Win32ServiceBundle
 
 It's the Win32Service integration for the Symfony framework and the Symfony Messenger worker.
